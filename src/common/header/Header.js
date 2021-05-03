@@ -5,7 +5,7 @@ import "./Header.css";
 class Header extends Component {
   render() {
     return (
-      <div className="header">
+      <div class="header">
         <img src={MovieLogo} alt="logo" id="image" />
       </div>
     );
